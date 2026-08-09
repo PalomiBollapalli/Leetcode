@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PalomiBollapalli/Leetcode/tree/master/0031-next-permutation) |
+| [0704-binary-search](https://github.com/PalomiBollapalli/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -16,4 +17,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PalomiBollapalli/Leetcode/tree/master/0031-next-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/PalomiBollapalli/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
