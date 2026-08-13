@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PalomiBollapalli/Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PalomiBollapalli/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
