@@ -22,6 +22,7 @@
 | [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/PalomiBollapalli/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/PalomiBollapalli/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
