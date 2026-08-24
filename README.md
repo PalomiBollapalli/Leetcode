@@ -19,6 +19,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/PalomiBollapalli/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
