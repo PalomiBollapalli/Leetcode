@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/PalomiBollapalli/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalomiBollapalli/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -75,5 +76,6 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PalomiBollapalli/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PalomiBollapalli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalomiBollapalli/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalomiBollapalli/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
