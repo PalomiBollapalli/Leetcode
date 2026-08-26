@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PalomiBollapalli/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -78,4 +79,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PalomiBollapalli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalomiBollapalli/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalomiBollapalli/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
