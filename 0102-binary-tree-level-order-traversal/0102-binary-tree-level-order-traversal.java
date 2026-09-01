@@ -17,7 +17,9 @@ class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans=new ArrayList<>();
         Queue<TreeNode> q=new LinkedList<>();
-        if(root==null) return ans;
+        if(root==null){
+            return ans;
+        }
         q.add(root);
         while(!q.isEmpty()){
             int n=q.size();
