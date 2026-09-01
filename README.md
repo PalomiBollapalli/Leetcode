@@ -98,12 +98,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PalomiBollapalli/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,11 +113,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PalomiBollapalli/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
