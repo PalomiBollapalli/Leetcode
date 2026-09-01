@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -103,6 +104,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
