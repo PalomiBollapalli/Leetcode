@@ -53,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PalomiBollapalli/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -138,4 +141,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
