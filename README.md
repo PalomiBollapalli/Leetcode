@@ -108,6 +108,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PalomiBollapalli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PalomiBollapalli/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -119,6 +120,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PalomiBollapalli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -129,6 +131,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/PalomiBollapalli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PalomiBollapalli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalomiBollapalli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PalomiBollapalli/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -149,4 +152,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalomiBollapalli/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
