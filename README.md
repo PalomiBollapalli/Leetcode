@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PalomiBollapalli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PalomiBollapalli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/PalomiBollapalli/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/PalomiBollapalli/Leetcode/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -30,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PalomiBollapalli/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PalomiBollapalli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/PalomiBollapalli/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
