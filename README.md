@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PalomiBollapalli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/PalomiBollapalli/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/PalomiBollapalli/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PalomiBollapalli/Leetcode/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
