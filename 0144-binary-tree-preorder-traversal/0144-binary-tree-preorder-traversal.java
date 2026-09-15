@@ -14,17 +14,19 @@
  * }
  */
 class Solution {
-    void preorder(List<Integer> al,TreeNode root){
-        if(root==null){
-            return;
-        }
-        al.add(root.val);
-        preorder(al,root.left);
-        preorder(al,root.right);
-    }
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> al=new ArrayList<>();
-        preorder(al,root);
+        if(root==null){
+            return al;
+        }
+        Stack<TreeNode> st=new Stack<>();
+        st.push(root);
+        while(!st.isEmpty()){
+            root=st.pop();
+            al.add(root.val);
+            if(root.right!=null) st.push(root.right);
+            if(root.left!=null) st.push(root.left);
+        }
         return al;
     }
 }
