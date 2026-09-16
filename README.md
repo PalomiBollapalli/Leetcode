@@ -24,6 +24,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PalomiBollapalli/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2678-number-of-senior-citizens](https://github.com/PalomiBollapalli/Leetcode/tree/master/2678-number-of-senior-citizens) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalomiBollapalli/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/PalomiBollapalli/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/PalomiBollapalli/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2678-number-of-senior-citizens](https://github.com/PalomiBollapalli/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3110-score-of-a-string](https://github.com/PalomiBollapalli/Leetcode/tree/master/3110-score-of-a-string) |
 ## Greedy
