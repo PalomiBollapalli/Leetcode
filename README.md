@@ -33,6 +33,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/PalomiBollapalli/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/PalomiBollapalli/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/PalomiBollapalli/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalomiBollapalli/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/PalomiBollapalli/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/PalomiBollapalli/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
