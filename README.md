@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/PalomiBollapalli/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/PalomiBollapalli/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PalomiBollapalli/Leetcode/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PalomiBollapalli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalomiBollapalli/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalomiBollapalli/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -109,6 +111,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalomiBollapalli/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalomiBollapalli/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
