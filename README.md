@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/PalomiBollapalli/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/PalomiBollapalli/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/PalomiBollapalli/Leetcode/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/PalomiBollapalli/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/PalomiBollapalli/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PalomiBollapalli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -101,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/PalomiBollapalli/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -250,4 +252,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PalomiBollapalli/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalomiBollapalli/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/PalomiBollapalli/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
