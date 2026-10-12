@@ -21,6 +21,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalomiBollapalli/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalomiBollapalli/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PalomiBollapalli/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalomiBollapalli/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PalomiBollapalli/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalomiBollapalli/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PalomiBollapalli/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
 | ------- |
