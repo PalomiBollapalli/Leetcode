@@ -28,6 +28,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/PalomiBollapalli/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalomiBollapalli/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/PalomiBollapalli/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PalomiBollapalli/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalomiBollapalli/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PalomiBollapalli/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PalomiBollapalli/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Linked List
 |  |
 | ------- |
